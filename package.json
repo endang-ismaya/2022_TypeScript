@@ -1,0 +1,12 @@
+{
+    "name": "2022_TypeScript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "debug": "tsc --sourcemap"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
